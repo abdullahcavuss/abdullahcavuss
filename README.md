@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahcavuss" alt="abdullahcavuss" /> </p>
 
-- 🔭 I’m currently working on **an IoT Project with Esp32**
+- 🔭 I’m currently working on **a project with STM32F4**
 
 - 📫 How to reach me **abdullahcavus58@gmail.com**
 
