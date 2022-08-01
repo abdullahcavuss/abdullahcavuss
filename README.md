@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A Control and Automation Engineering Student from Turkey</h3>
+<h3 align="center">A Control and Automation Engineer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahcavuss" alt="abdullahcavuss" /> </p>
 
