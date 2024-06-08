@@ -12,7 +12,7 @@
 <p align="left">
 
 <h3 align="center">Skill Trees</h3>
-<p align="center"><img align = "left" src="https://raw.githubusercontent.com/abdullahcavuss/abdullahcavuss/main/embedded_skills.png" width=45%" /><img align = "right" src="https://raw.githubusercontent.com/abdullahcavuss/abdullahcavuss/main/pcb_design_skills.png" width=45%" /><p/>
+<p align="center"><img align = "left" src="https://raw.githubusercontent.com/abdullahcavuss/abdullahcavuss/main/embedded_skills.png" width=48%" /><img align = "right" src="https://raw.githubusercontent.com/abdullahcavuss/abdullahcavuss/main/pcb_design_skills.png" width=48%" /><p/>
 
 
 
