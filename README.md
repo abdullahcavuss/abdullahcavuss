@@ -10,7 +10,7 @@
 <p align="left">
 
 <h3 align="center">Skill Set</h3>
-![Skill Tree](./embedded_skills.png)
+![Skill Tree](https://raw.githubusercontent.com/abdullahcavuss/abdullahcavuss/main/embedded_skills.png)
 <h3 align="left">Connect with me:</h3>
 <a href="mailto:abdullahcavus58@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="kozmonott" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12307278/abdullahcavuss" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="kozmonott" height="30" width="40" /></a>
