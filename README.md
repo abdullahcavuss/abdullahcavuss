@@ -6,8 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahcavuss" alt="abdullahcavuss" /> </p>
 
-- 🔭 I’m currently working on **a project with STM32F4**
-- For details go to my webpage: kozmoonot.com
+- For details go to my webpage: abdullahcavuss.com
 
 <p align="left">
 
